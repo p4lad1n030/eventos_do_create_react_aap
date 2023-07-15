@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.bg-blue {
+  background-color: #1867BB;
+}
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  align-items: center;
+}
+.nav-link {
+  color: #ffffff!important;
+  margin-inline: 10px;
+}

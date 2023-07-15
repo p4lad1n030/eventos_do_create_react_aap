@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.img {
+  max-height: 250px;
+  max-height: 250px;
+  overflow: hidden;
+}
+img {
+
+  width: auto;
+  height: auto;
+}
+.ic {
+  color: #1867BB;
+}
+
+.card-text {
+  max-height: 150px;
+  overflow: hidden;
+}
+
+.det {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hei-line {
+  vertical-align: 3px;
+}
+.deletebtn {
+  top: 5px;
+  right: 5px;
+}

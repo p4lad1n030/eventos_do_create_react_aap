@@ -1,0 +1,26 @@
+.cadastro {
+  background-color: #1867bb;
+  height: 100vh;
+}
+
+.cadastro_content {
+  width: auto;
+}
+.i {
+  font-size: 5rem!important;
+}
+.login_content input {
+  min-width: 300px;
+}
+.br {
+  color: #ffffff;
+  border: 1px solid#ffffff !important;
+}
+a {
+  text-decoration: none;
+}
+
+.pcao a {
+  color: #ffffff;
+  text-decoration: none;
+}

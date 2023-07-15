@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.update {
+  position: sticky;
+
+}
+.fa-slack, .fa-clock, .fa-calendar-days {
+  color: #5718B3;
+}
+.bg-details {
+  background-color: #1867bb;
+  width: 200px;
+  padding: 10px;
+}

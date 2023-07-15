@@ -1,0 +1,24 @@
+.login {
+  background-color: #1867bb;
+  height: 100vh;
+}
+.br {
+  color: #ffffff;
+  border: 1px solid#ffffff !important;
+}
+a {
+  text-decoration: none;
+}
+.pcao {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+.pcao a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
