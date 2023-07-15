@@ -10,6 +10,7 @@ import { logIn } from '../../store/actions/userActions';
 import WithGoogle from '../../components/withGoogle';
 import Menu from '../../components/Header/Navbar/Menu';
 import { reset, errorCase } from "../../funcoes";
+// primeiro comit criado
 
 const Login = (props) => {
   // variaveis de estado dos campos email e senha
